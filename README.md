@@ -9,5 +9,5 @@ It my pressure to meet you all. Let us work together to explore this subject.
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile https://github.com/Bangning0323
 
